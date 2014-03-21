@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DieValue.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\DragRigidbody.js" Line="1" Column="1" />
+      <File FileName="Assets\DieValue.js" Line="8" Column="2" />
+      <File FileName="Assets\SideTrigger.js" Line="7" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
